@@ -4,7 +4,6 @@ namespace Microtriangle\ORM\Eloquent;
 
 use Illuminate\Container\Container;
 use Illuminate\Database\Query\Builder as EloquentBuilder;
-use PromoMail\Paginate\HtmlPaginator;
 
 /**
  * QueryBuilder Class
